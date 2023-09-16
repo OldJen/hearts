@@ -1,11 +1,11 @@
 var xPos,yPos
 var i=0;
-/*var colors = ['#B22937','#C11C17','#DE5003','#E27A1D','#E6AA19','#EFCE10','#E0E61A','#ACD62A',
+var colors = ['#B22937','#C11C17','#DE5003','#E27A1D','#E6AA19','#EFCE10','#E0E61A','#ACD62A',
 '#80C837','#4CA82B','#228B22','#229F6E','#20B2AA','#60B6CA','#93BDE7','#7F91C3','#6F6DA7',
 '#575597','#434187','#1F1D6D','#3B256D','#502E72','#80529A',
-'#A670B8','#A660AC','#A650A0','#A6358C','#A63570','#A2395B'];*/
+'#A670B8','#A660AC','#A650A0','#A6358C','#A63570','#A2395B'];
 
-var colors = ['#A63570','#A2395B']
+//var colors = ['#A63570','#A2395B']
 
 document.onmousemove = getXY;
 
